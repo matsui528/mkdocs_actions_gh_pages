@@ -10,6 +10,6 @@ mkdocs build   # Render html files on the `site` directory
 ```
 
 ## Configure
-- Activate GitHub Pages by specifying `source` as `GitHub Actions`. See [this]((https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow)).
+- Activate GitHub Pages by specifying `source` as `GitHub Actions`. See [this](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow).
 - Setup workflow like [this](.github/workflows/pages.yml)
 - Done. See [the rendered page here](https://matsui528.github.io/mkdocs_actions_gh_pages/).
