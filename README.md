@@ -1,0 +1,1 @@
+# mkdocs_actions_gh_pages
